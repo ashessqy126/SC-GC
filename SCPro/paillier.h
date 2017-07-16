@@ -53,6 +53,7 @@
 	This represents a Paillier public key, which is basically just the
 	modulus n. The other values should be considered private.
 */
+#include <gmp.h>
 typedef struct
 {
 	int bits;  /* e.g., 1024 */
