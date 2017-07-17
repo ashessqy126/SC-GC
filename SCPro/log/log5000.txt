@@ -1,0 +1,10 @@
+Client Time:20.853251
+PSP Time:20.667479
+SCServer Time:26.500805
+PSP-SCServer Time:18.187029
+
+Client Time:41.006039
+PSP Time:40.890152
+SCServer Time:52.483906
+PSP-SCServer Time:29.840012
+

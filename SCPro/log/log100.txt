@@ -1,0 +1,90 @@
+Client Time:0.247514
+PSP Time:0.247039
+SCServer Time:0.311054
+PSP-SCServer Time:0.000157
+
+Client Time:0.246734
+PSP Time:0.247977
+SCServer Time:0.315485
+PSP-SCServer Time:0.000143
+
+Client Time:0.251583
+PSP Time:0.249257
+SCServer Time:0.316457
+PSP-SCServer Time:0.000156
+
+Client Time:0.246589
+PSP Time:0.245313
+SCServer Time:0.311192
+PSP-SCServer Time:0.000160
+
+Client Time:0.247474
+PSP Time:0.245570
+SCServer Time:0.312135
+PSP-SCServer Time:0.000192
+
+Client Time:0.254027
+PSP Time:0.249600
+SCServer Time:0.317409
+PSP-SCServer Time:0.324975
+
+Client Time:0.254537
+PSP Time:0.251170
+SCServer Time:0.322455
+PSP-SCServer Time:0.325340
+
+Client Time:0.255024
+PSP Time:0.252303
+SCServer Time:0.321887
+PSP-SCServer Time:0.356938
+
+Client Time:0.255735
+PSP Time:0.256982
+SCServer Time:0.320926
+PSP-SCServer Time:0.335457
+
+Client Time:0.257818
+PSP Time:0.255898
+SCServer Time:0.322858
+PSP-SCServer Time:0.379498
+
+Client Time:0.257751
+PSP Time:0.254380
+SCServer Time:0.321782
+PSP-SCServer Time:0.339941
+
+Client Time:0.254433
+PSP Time:0.253048
+SCServer Time:0.319632
+PSP-SCServer Time:0.387053
+
+Client Time:0.255620
+PSP Time:0.253767
+SCServer Time:0.323460
+PSP-SCServer Time:0.366207
+
+Client Time:0.255440
+PSP Time:0.255929
+SCServer Time:0.319262
+PSP-SCServer Time:0.327657
+
+Client Time:0.257487
+PSP Time:0.255034
+SCServer Time:0.321950
+PSP-SCServer Time:0.365735
+
+Client Time:0.254949
+PSP Time:0.250857
+SCServer Time:0.318489
+PSP-SCServer Time:0.349315
+
+Client Time:0.255091
+PSP Time:0.253369
+SCServer Time:0.321646
+PSP-SCServer Time:0.325715
+
+Client Time:0.256133
+PSP Time:0.251587
+SCServer Time:0.319900
+PSP-SCServer Time:0.372485
+
