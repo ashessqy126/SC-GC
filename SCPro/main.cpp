@@ -7,7 +7,7 @@
 #include "client.h"
 #include "PSP.h"
 using namespace std;
-int TOTAL = 100000;
+int TOTAL = 5000;
 int task_x = 141922;
 int task_y = 42333;
 int main()
