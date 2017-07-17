@@ -30,16 +30,15 @@ void SCSDec(paillier_ciphertext_t* c, char *hexPrvKey, char *hexPubKey, char *de
 }
 int MinGC(char *rndp, char *distancep, int num){
     FILE* fp;
-    sprintf(cmd, "./TinyGarble --alice --scd_file ./scd/MinGC.scd --input %s --clock_cycles %d", distancep, num);
+    sprintf(cmd, "./TinyGarble --alice --scd_file ./scd/MinGC.scd -p 9999 --input %s --clock_cycles %d", distancep, num);
     popen(cmd, "r");
-    sprintf(cmd, "./TinyGarble --bob --scd_file ./scd/MinGC.scd --input %s --clock_cycles %d", rndp, num);
+    sprintf(cmd, "./TinyGarble --bob --scd_file ./scd/MinGC.scd -p 9999 --input %s --clock_cycles %d", rndp, num);
     fp = popen(cmd, "r");
     fgets(buffer, 124000, fp);
     if(strlen(buffer) == 0){
           return -1;
     }
     else{
-         printf("%s\n", buffer);
          buffer[strlen(buffer) - 1] = '\0';
          return check_hsb(num, buffer);
     }
